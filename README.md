@@ -2,6 +2,11 @@
 
 Welcome to the **Tic-Tac-Toe** game built with Flutter! This simple yet fun game allows you to play Tic-Tac-Toe against another player. 
 
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/52e31281-3391-4605-b49b-4c7874118543)
+
+
 # Demo [Tap here!](https://tictactoe-flutter.netlify.app/) 
 
 When using a browser’s **Inspect** tool to view a website in **Phone mode** (mobile view), follow these steps:
